@@ -2,9 +2,9 @@
 
 # Práctica: Sistema musculoesquelético
 
-## Información de la estudiante
+## Información del estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Rafael Herrera Aguilar \[22212258]; l22212258@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
